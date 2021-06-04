@@ -1,0 +1,61 @@
+
+.one{
+    color:rgba(0, 0, 255, 0.575);
+   font-family: Copperplate;
+    font-size:70px;
+    background-color: white;
+   
+}
+
+
+.two{
+    color:rgb(248, 4, 248);
+    font-size:50px;
+    font-family: ZCOOL KuaiLe;
+    background: rgb(164, 187, 111);
+}
+.three{
+    color:rgb(248, 4, 248);
+    font-family: ZCOOL KuaiLe;
+     font-size:50px;
+     background: rgb(164, 187, 111);
+}
+.four{
+    color:rgba(231, 22, 22, 0.897);
+   font-family: Papyrus;
+     font-size:50px;
+     font-style: italic;
+   background: paleturquoise;
+     
+}
+
+.five{
+    color:rgba(231, 22, 22, 0.897);
+    font-family: Papyrus;
+     font-size:30px;
+     background: paleturquoise;
+    
+}
+.six{
+    color:orange;
+   font-family: Copperplate;
+    font-size:30px;
+    background: rgb(158, 118, 160)
+}
+.seven{
+    color:rgba(0, 0, 255, 0.575);
+    font-family: Copperplate;
+     font-size:70px;
+     background: orchid;
+    
+}
+tr,
+th,
+td,
+table {
+  border: 47px solid rgb(184, 184, 238);
+background-color: pink;
+border-radius: 8%;
+
+
+}
